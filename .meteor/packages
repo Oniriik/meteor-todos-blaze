@@ -25,3 +25,5 @@ blaze-hot               # Update files using Blaze's API with HMR
 dev-error-overlay
 reactive-dict
 accounts-password
+meteortesting:mocha
+quave:testing
