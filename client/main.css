@@ -199,6 +199,7 @@ header {
   font-size: 1em;
   margin-right: 16px;
   margin-top: 4px;
+  border-radius: 10px;
 }
 
 .login-form > div > input:focus {
@@ -206,7 +207,7 @@ header {
 }
 
 .login-form > div > button {
-  background-color: #62807e;
+  background-color: #7669ce;;
 }
 .user {
   display: flex;
